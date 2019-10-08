@@ -46,6 +46,7 @@ Configurando o Multer
 
 Testar no Spot controller o console.log
 
-** Parei na refatoração do Stop controller para aceitar o upload
-tempo 1:07:41
+Instalando CORS
+yarn add cors
+* alterando arquivo server.js - importando o cors
 
