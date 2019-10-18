@@ -50,3 +50,8 @@ Instalando CORS
 yarn add cors
 * alterando arquivo server.js - importando o cors
 
+=====================
+
+Hospedando no Heroku
+* heroku create
+https://air-cnc-api.herokuapp.com/ | https://git.heroku.com/air-cnc-api.git
