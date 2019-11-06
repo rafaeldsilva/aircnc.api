@@ -50,6 +50,9 @@ Instalando CORS
 yarn add cors
 * alterando arquivo server.js - importando o cors
 
+SocketIO
+Instalar: yarn add socket.io
+
 =====================
 
 Hospedando no Heroku
